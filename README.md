@@ -48,7 +48,7 @@ pip3 install -r requirements.txt
 
   访问服务器接口（不会记录您的账号信息）：http://39.98.194.220:3000/login/cellphone?phone=xxx&password=xxx ，手机号和密码换成您自己的。
 
-  ![image-20210624170110951](https://picbed.kid510.com/picGo/20210624170111.png)
+
 
 
 
@@ -56,7 +56,7 @@ pip3 install -r requirements.txt
 
   在网易云网页版登陆您的账号，通过查看接口获取token
 
-  ![image-20210624170603448](https://picbed.kid510.com/picGo/20210624170603.png)
+
 
 
 
@@ -64,7 +64,7 @@ pip3 install -r requirements.txt
 
 3. **填写配置文件**
 
-![image-20210624171429782](https://picbed.kid510.com/picGo/20210624171429.png)
+
 
 - base_path：生成的歌曲目录
 - playId：歌单id
@@ -78,8 +78,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
-![image-20210624175628740](https://picbed.kid510.com/picGo/20210624175628.png)
 
 
 
-![image-20210624175641344](https://picbed.kid510.com/picGo/20210624175641.png)
+
