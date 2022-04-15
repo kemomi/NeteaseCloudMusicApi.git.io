@@ -4,7 +4,7 @@
 
 > 与其说是项目，实际上就是一个`python` 脚本，运行该脚本需要您电脑上有python环境，该脚本依赖github上这个项目：
 
-https://github.com/kemomi/NeteaseCloudMusicApi.git.io
+https://github.com/Binaryify/NeteaseCloudMusicApi.git
 
 通过Node获取网抑云相关数据， 然后进行填充歌曲信息，该项目我以部署在远程服务器，小伙伴们可以不用本地运行了。
 
